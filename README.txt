@@ -7,8 +7,12 @@ Requires at least: 5.9
 Requires PHP: 7.1
 
 == Description ==
-Demo: [LavBoost Demo](https://lav-boost.alicethemes.com/)
-Documentation: [LavBoost Documentation](https://alicethemes.com/documentation/)
+
+**Demo:** [LavBoost Demo](https://lav-boost.alicethemes.com/)
+
+**Documentation:** [LavBoost Documentation](https://alicethemes.com/documentation/)
+
+**LavBoost - All in One Woocommerce Related Products Description**: [LavBoost Description](https://first-design-company.com/plugins/lavboost-the-all-in-one-sales-increasing-woocommerce-plugin/)
 
 For customers who need to set up the most popular and effective tools to increase sales simple products in the WooCommerce store in a few clicks
 Are you a small business owner seeking to supercharge your sales and drive your revenue to new heights? Look no further than LavBoost - the All in One Sales Increasing Plugin.
