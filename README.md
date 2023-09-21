@@ -1,12 +1,11 @@
-===  LavBoost Lite - All in One Woocommerce Related Products ===
-Contributors: AliceThemes
-Tags: boost sales, order bump, upsell, woocommerce, donation
-Stable tag: 1.0.0
-Tested up to: 6.3
-Requires at least: 5.9
-Requires PHP: 7.1
+# LavBoost Lite - All in One Woocommerce Related Products
 
-# ===  LavBoost Lite - All in One Woocommerce Related Products ===
+**Contributors:** AliceThemes
+**Tags:** boost sales, order bump, upsell, woocommerce, donation
+**Stable tag:** 1.0.0
+**Tested up to:** 6.3
+**Requires at least:** 5.9
+**Requires PHP:** 7.1
 
 ## == Description ==
 
